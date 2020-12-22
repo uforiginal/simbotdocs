@@ -1,0 +1,26 @@
+var classwave_1_1_wave__write =
+[
+    [ "__init__", "classwave_1_1_wave__write.html#a15cdb5d61d9ee0c288c2e09e10b0ba0e", null ],
+    [ "__del__", "classwave_1_1_wave__write.html#a10fbe62f727a31218fd55042d9b5366c", null ],
+    [ "close", "classwave_1_1_wave__write.html#a6aeb7451e81b35b9b3aceb4c23bfca16", null ],
+    [ "getcompname", "classwave_1_1_wave__write.html#a3c391813d5e4f46d109a5ce7ab434589", null ],
+    [ "getcomptype", "classwave_1_1_wave__write.html#abe4cfe1d731c21587620e8939d655d2d", null ],
+    [ "getframerate", "classwave_1_1_wave__write.html#a2ab93c551a5d32e6481e64718db508ae", null ],
+    [ "getmark", "classwave_1_1_wave__write.html#a8f5a8db67cf1c2e9da4330bccd5a2373", null ],
+    [ "getmarkers", "classwave_1_1_wave__write.html#ac498e13442266ea6655fcd30fa782ecc", null ],
+    [ "getnchannels", "classwave_1_1_wave__write.html#aa4980041df8a99a2ffb06f109a4228b8", null ],
+    [ "getnframes", "classwave_1_1_wave__write.html#afaa9701cdd9a766fcdb375b545338466", null ],
+    [ "getparams", "classwave_1_1_wave__write.html#aca29789fd6a769bb9b43ac6b4f3faff2", null ],
+    [ "getsampwidth", "classwave_1_1_wave__write.html#a8bc3844fb82ff4ba1e07cfb6170e72bd", null ],
+    [ "initfp", "classwave_1_1_wave__write.html#acc3721550b1f0ece2d94b19a1773f2b5", null ],
+    [ "setcomptype", "classwave_1_1_wave__write.html#ab0dfd1766cacfa3062303c8275af1f03", null ],
+    [ "setframerate", "classwave_1_1_wave__write.html#ae71490ac5919b6c49392ed91a5f716e9", null ],
+    [ "setmark", "classwave_1_1_wave__write.html#a3060828855550caacd16105d7b6d439c", null ],
+    [ "setnchannels", "classwave_1_1_wave__write.html#a3981233e34d4a24ae9ff513b65fbea6b", null ],
+    [ "setnframes", "classwave_1_1_wave__write.html#a02158aa5ecd8f5e7456dcfa47e8dc432", null ],
+    [ "setparams", "classwave_1_1_wave__write.html#af899d5f78da09c4e6ff2e432fc53f712", null ],
+    [ "setsampwidth", "classwave_1_1_wave__write.html#a9b9bd2d491bf9a6a135c44b122ea5d5b", null ],
+    [ "tell", "classwave_1_1_wave__write.html#a6786c18334f08bc2d11fbd63bc0b71a3", null ],
+    [ "writeframes", "classwave_1_1_wave__write.html#adac2c7af21c91337a34e03062bc4f7e7", null ],
+    [ "writeframesraw", "classwave_1_1_wave__write.html#af982e00c0c9982111c708006514b035a", null ]
+];

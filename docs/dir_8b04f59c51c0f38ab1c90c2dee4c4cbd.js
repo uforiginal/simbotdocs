@@ -1,0 +1,35 @@
+var dir_8b04f59c51c0f38ab1c90c2dee4c4cbd =
+[
+    [ "command", "dir_c99891183e73a556a413d9597803b7e7.html", "dir_c99891183e73a556a413d9597803b7e7" ],
+    [ "__init__.py", "distutils_2____init_____8py.html", "distutils_2____init_____8py" ],
+    [ "archive_util.py", "archive__util_8py.html", "archive__util_8py" ],
+    [ "bcppcompiler.py", "bcppcompiler_8py.html", "bcppcompiler_8py" ],
+    [ "ccompiler.py", "ccompiler_8py.html", "ccompiler_8py" ],
+    [ "cmd.py", "distutils_2cmd_8py.html", "distutils_2cmd_8py" ],
+    [ "config.py", "distutils_2config_8py.html", "distutils_2config_8py" ],
+    [ "core.py", "distutils_2core_8py.html", "distutils_2core_8py" ],
+    [ "cygwinccompiler.py", "cygwinccompiler_8py.html", "cygwinccompiler_8py" ],
+    [ "debug.py", "debug_8py.html", "debug_8py" ],
+    [ "dep_util.py", "dep__util_8py.html", "dep__util_8py" ],
+    [ "dir_util.py", "dir__util_8py.html", "dir__util_8py" ],
+    [ "dist.py", "dist_8py.html", "dist_8py" ],
+    [ "emxccompiler.py", "emxccompiler_8py.html", "emxccompiler_8py" ],
+    [ "errors.py", "distutils_2errors_8py.html", "distutils_2errors_8py" ],
+    [ "extension.py", "extension_8py.html", "extension_8py" ],
+    [ "fancy_getopt.py", "fancy__getopt_8py.html", "fancy__getopt_8py" ],
+    [ "file_util.py", "file__util_8py.html", "file__util_8py" ],
+    [ "filelist.py", "filelist_8py.html", "filelist_8py" ],
+    [ "log.py", "log_8py.html", "log_8py" ],
+    [ "msvccompiler.py", "msvccompiler_8py.html", "msvccompiler_8py" ],
+    [ "spawn.py", "spawn_8py.html", "spawn_8py" ],
+    [ "sysconfig.py", "distutils_2sysconfig_8py.html", "distutils_2sysconfig_8py" ],
+    [ "text_file.py", "text__file_8py.html", "text__file_8py" ],
+    [ "unixccompiler.py", "unixccompiler_8py.html", "unixccompiler_8py" ],
+    [ "util.py", "distutils_2util_8py.html", "distutils_2util_8py" ],
+    [ "version.py", "version_8py.html", [
+      [ "Version", "classdistutils_1_1version_1_1_version.html", "classdistutils_1_1version_1_1_version" ],
+      [ "StrictVersion", "classdistutils_1_1version_1_1_strict_version.html", "classdistutils_1_1version_1_1_strict_version" ],
+      [ "LooseVersion", "classdistutils_1_1version_1_1_loose_version.html", "classdistutils_1_1version_1_1_loose_version" ]
+    ] ],
+    [ "versionpredicate.py", "versionpredicate_8py.html", "versionpredicate_8py" ]
+];

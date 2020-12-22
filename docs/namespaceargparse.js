@@ -1,0 +1,27 @@
+var namespaceargparse =
+[
+    [ "_ActionsContainer", "classargparse_1_1___actions_container.html", "classargparse_1_1___actions_container" ],
+    [ "_AppendAction", "classargparse_1_1___append_action.html", "classargparse_1_1___append_action" ],
+    [ "_AppendConstAction", "classargparse_1_1___append_const_action.html", "classargparse_1_1___append_const_action" ],
+    [ "_ArgumentGroup", "classargparse_1_1___argument_group.html", "classargparse_1_1___argument_group" ],
+    [ "_AttributeHolder", "classargparse_1_1___attribute_holder.html", "classargparse_1_1___attribute_holder" ],
+    [ "_CountAction", "classargparse_1_1___count_action.html", "classargparse_1_1___count_action" ],
+    [ "_HelpAction", "classargparse_1_1___help_action.html", "classargparse_1_1___help_action" ],
+    [ "_MutuallyExclusiveGroup", "classargparse_1_1___mutually_exclusive_group.html", "classargparse_1_1___mutually_exclusive_group" ],
+    [ "_StoreAction", "classargparse_1_1___store_action.html", "classargparse_1_1___store_action" ],
+    [ "_StoreConstAction", "classargparse_1_1___store_const_action.html", "classargparse_1_1___store_const_action" ],
+    [ "_StoreFalseAction", "classargparse_1_1___store_false_action.html", "classargparse_1_1___store_false_action" ],
+    [ "_StoreTrueAction", "classargparse_1_1___store_true_action.html", "classargparse_1_1___store_true_action" ],
+    [ "_SubParsersAction", "classargparse_1_1___sub_parsers_action.html", "classargparse_1_1___sub_parsers_action" ],
+    [ "_VersionAction", "classargparse_1_1___version_action.html", "classargparse_1_1___version_action" ],
+    [ "Action", "classargparse_1_1_action.html", "classargparse_1_1_action" ],
+    [ "ArgumentDefaultsHelpFormatter", "classargparse_1_1_argument_defaults_help_formatter.html", null ],
+    [ "ArgumentError", "classargparse_1_1_argument_error.html", "classargparse_1_1_argument_error" ],
+    [ "ArgumentParser", "classargparse_1_1_argument_parser.html", "classargparse_1_1_argument_parser" ],
+    [ "ArgumentTypeError", "classargparse_1_1_argument_type_error.html", null ],
+    [ "FileType", "classargparse_1_1_file_type.html", "classargparse_1_1_file_type" ],
+    [ "HelpFormatter", "classargparse_1_1_help_formatter.html", "classargparse_1_1_help_formatter" ],
+    [ "Namespace", "classargparse_1_1_namespace.html", "classargparse_1_1_namespace" ],
+    [ "RawDescriptionHelpFormatter", "classargparse_1_1_raw_description_help_formatter.html", null ],
+    [ "RawTextHelpFormatter", "classargparse_1_1_raw_text_help_formatter.html", null ]
+];

@@ -1,0 +1,28 @@
+var namespacetarfile =
+[
+    [ "_BZ2Proxy", "classtarfile_1_1___b_z2_proxy.html", "classtarfile_1_1___b_z2_proxy" ],
+    [ "_data", "classtarfile_1_1__data.html", "classtarfile_1_1__data" ],
+    [ "_FileInFile", "classtarfile_1_1___file_in_file.html", "classtarfile_1_1___file_in_file" ],
+    [ "_hole", "classtarfile_1_1__hole.html", null ],
+    [ "_LowLevelFile", "classtarfile_1_1___low_level_file.html", "classtarfile_1_1___low_level_file" ],
+    [ "_ringbuffer", "classtarfile_1_1__ringbuffer.html", "classtarfile_1_1__ringbuffer" ],
+    [ "_section", "classtarfile_1_1__section.html", "classtarfile_1_1__section" ],
+    [ "_Stream", "classtarfile_1_1___stream.html", "classtarfile_1_1___stream" ],
+    [ "_StreamProxy", "classtarfile_1_1___stream_proxy.html", "classtarfile_1_1___stream_proxy" ],
+    [ "CompressionError", "classtarfile_1_1_compression_error.html", null ],
+    [ "EmptyHeaderError", "classtarfile_1_1_empty_header_error.html", null ],
+    [ "EOFHeaderError", "classtarfile_1_1_e_o_f_header_error.html", null ],
+    [ "ExFileObject", "classtarfile_1_1_ex_file_object.html", "classtarfile_1_1_ex_file_object" ],
+    [ "ExtractError", "classtarfile_1_1_extract_error.html", null ],
+    [ "HeaderError", "classtarfile_1_1_header_error.html", null ],
+    [ "InvalidHeaderError", "classtarfile_1_1_invalid_header_error.html", null ],
+    [ "ReadError", "classtarfile_1_1_read_error.html", null ],
+    [ "StreamError", "classtarfile_1_1_stream_error.html", null ],
+    [ "SubsequentHeaderError", "classtarfile_1_1_subsequent_header_error.html", null ],
+    [ "TarError", "classtarfile_1_1_tar_error.html", null ],
+    [ "TarFile", "classtarfile_1_1_tar_file.html", "classtarfile_1_1_tar_file" ],
+    [ "TarFileCompat", "classtarfile_1_1_tar_file_compat.html", "classtarfile_1_1_tar_file_compat" ],
+    [ "TarInfo", "classtarfile_1_1_tar_info.html", "classtarfile_1_1_tar_info" ],
+    [ "TarIter", "classtarfile_1_1_tar_iter.html", "classtarfile_1_1_tar_iter" ],
+    [ "TruncatedHeaderError", "classtarfile_1_1_truncated_header_error.html", null ]
+];

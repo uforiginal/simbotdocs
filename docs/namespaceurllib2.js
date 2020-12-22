@@ -1,0 +1,28 @@
+var namespaceurllib2 =
+[
+    [ "AbstractBasicAuthHandler", "classurllib2_1_1_abstract_basic_auth_handler.html", "classurllib2_1_1_abstract_basic_auth_handler" ],
+    [ "AbstractDigestAuthHandler", "classurllib2_1_1_abstract_digest_auth_handler.html", "classurllib2_1_1_abstract_digest_auth_handler" ],
+    [ "AbstractHTTPHandler", "classurllib2_1_1_abstract_h_t_t_p_handler.html", "classurllib2_1_1_abstract_h_t_t_p_handler" ],
+    [ "BaseHandler", "classurllib2_1_1_base_handler.html", "classurllib2_1_1_base_handler" ],
+    [ "CacheFTPHandler", "classurllib2_1_1_cache_f_t_p_handler.html", "classurllib2_1_1_cache_f_t_p_handler" ],
+    [ "FileHandler", "classurllib2_1_1_file_handler.html", "classurllib2_1_1_file_handler" ],
+    [ "FTPHandler", "classurllib2_1_1_f_t_p_handler.html", "classurllib2_1_1_f_t_p_handler" ],
+    [ "HTTPBasicAuthHandler", "classurllib2_1_1_h_t_t_p_basic_auth_handler.html", "classurllib2_1_1_h_t_t_p_basic_auth_handler" ],
+    [ "HTTPCookieProcessor", "classurllib2_1_1_h_t_t_p_cookie_processor.html", "classurllib2_1_1_h_t_t_p_cookie_processor" ],
+    [ "HTTPDefaultErrorHandler", "classurllib2_1_1_h_t_t_p_default_error_handler.html", "classurllib2_1_1_h_t_t_p_default_error_handler" ],
+    [ "HTTPDigestAuthHandler", "classurllib2_1_1_h_t_t_p_digest_auth_handler.html", "classurllib2_1_1_h_t_t_p_digest_auth_handler" ],
+    [ "HTTPError", "classurllib2_1_1_h_t_t_p_error.html", "classurllib2_1_1_h_t_t_p_error" ],
+    [ "HTTPErrorProcessor", "classurllib2_1_1_h_t_t_p_error_processor.html", "classurllib2_1_1_h_t_t_p_error_processor" ],
+    [ "HTTPHandler", "classurllib2_1_1_h_t_t_p_handler.html", "classurllib2_1_1_h_t_t_p_handler" ],
+    [ "HTTPPasswordMgr", "classurllib2_1_1_h_t_t_p_password_mgr.html", "classurllib2_1_1_h_t_t_p_password_mgr" ],
+    [ "HTTPPasswordMgrWithDefaultRealm", "classurllib2_1_1_h_t_t_p_password_mgr_with_default_realm.html", "classurllib2_1_1_h_t_t_p_password_mgr_with_default_realm" ],
+    [ "HTTPRedirectHandler", "classurllib2_1_1_h_t_t_p_redirect_handler.html", "classurllib2_1_1_h_t_t_p_redirect_handler" ],
+    [ "HTTPSHandler", "classurllib2_1_1_h_t_t_p_s_handler.html", "classurllib2_1_1_h_t_t_p_s_handler" ],
+    [ "OpenerDirector", "classurllib2_1_1_opener_director.html", "classurllib2_1_1_opener_director" ],
+    [ "ProxyBasicAuthHandler", "classurllib2_1_1_proxy_basic_auth_handler.html", "classurllib2_1_1_proxy_basic_auth_handler" ],
+    [ "ProxyDigestAuthHandler", "classurllib2_1_1_proxy_digest_auth_handler.html", "classurllib2_1_1_proxy_digest_auth_handler" ],
+    [ "ProxyHandler", "classurllib2_1_1_proxy_handler.html", "classurllib2_1_1_proxy_handler" ],
+    [ "Request", "classurllib2_1_1_request.html", "classurllib2_1_1_request" ],
+    [ "UnknownHandler", "classurllib2_1_1_unknown_handler.html", "classurllib2_1_1_unknown_handler" ],
+    [ "URLError", "classurllib2_1_1_u_r_l_error.html", "classurllib2_1_1_u_r_l_error" ]
+];
